@@ -1,0 +1,13 @@
+You need:
+
+Polybar
+Pywal16
+Picom
+Dunst
+nm-applet
+pactl / pulseaudio (anyone- change config to fit)
+brightnessctl
+alacritty
+dmenu
+flameshot
+

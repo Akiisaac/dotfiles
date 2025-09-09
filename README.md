@@ -27,7 +27,7 @@ These files exist on Arch-based but, should be compatible with any other distro.
 Use your preferred AUR helper or `pacman`. Minimal set:
 
 ```bash
-sudo pacman -S --needed i3-wm alacritty picom polybar feh rofi
+sudo pacman -S --needed i3-wm alacritty picom polybar feh dmenu
 
 # Fonts (for icons/glyphs in polybar)
 sudo pacman -S --needed ttf-nerd-fonts-symbols-mono ttf-dejavu

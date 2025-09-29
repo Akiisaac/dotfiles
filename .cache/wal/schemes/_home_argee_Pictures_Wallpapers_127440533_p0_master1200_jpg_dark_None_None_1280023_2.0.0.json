@@ -1,0 +1,28 @@
+{
+    "checksum": "0e4c9b49f234ee2eb16b14683035337b",
+    "wallpaper": "/home/argee/Pictures/Wallpapers/127440533_p0_master1200.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0c1b",
+        "foreground": "#c2c2c6",
+        "cursor": "#c2c2c6"
+    },
+    "colors": {
+        "color0": "#0c0c1b",
+        "color1": "#AE5672",
+        "color2": "#CA596B",
+        "color3": "#E16370",
+        "color4": "#FA857A",
+        "color5": "#BA6D85",
+        "color6": "#E77084",
+        "color7": "#c2c2c6",
+        "color8": "#5b5b6f",
+        "color9": "#AE5672",
+        "color10": "#CA596B",
+        "color11": "#E16370",
+        "color12": "#FA857A",
+        "color13": "#BA6D85",
+        "color14": "#E77084",
+        "color15": "#c2c2c6"
+    }
+}

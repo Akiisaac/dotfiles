@@ -1,0 +1,28 @@
+{
+    "checksum": "40f7428db89e913cc74149230825ac6b",
+    "wallpaper": "/home/argee/Pictures/Wallpapers/hjiunmeat.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#110b1a",
+        "foreground": "#c3c2c5",
+        "cursor": "#c3c2c5"
+    },
+    "colors": {
+        "color0": "#110b1a",
+        "color1": "#A95650",
+        "color2": "#B76053",
+        "color3": "#D0916A",
+        "color4": "#605785",
+        "color5": "#94788E",
+        "color6": "#E3AEA1",
+        "color7": "#c3c2c5",
+        "color8": "#625a6f",
+        "color9": "#A95650",
+        "color10": "#B76053",
+        "color11": "#D0916A",
+        "color12": "#605785",
+        "color13": "#94788E",
+        "color14": "#E3AEA1",
+        "color15": "#c3c2c5"
+    }
+}

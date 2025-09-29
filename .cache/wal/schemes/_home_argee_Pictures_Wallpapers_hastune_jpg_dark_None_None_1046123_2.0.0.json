@@ -1,0 +1,28 @@
+{
+    "checksum": "7859b2057d3dce20158ddfdfa6eec4fb",
+    "wallpaper": "/home/argee/Pictures/Wallpapers/hastune.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#06080d",
+        "foreground": "#c0c1c2",
+        "cursor": "#c0c1c2"
+    },
+    "colors": {
+        "color0": "#06080d",
+        "color1": "#4D63B1",
+        "color2": "#5C75C9",
+        "color3": "#8578C9",
+        "color4": "#6D8FDB",
+        "color5": "#48ACD4",
+        "color6": "#98A5EC",
+        "color7": "#c0c1c2",
+        "color8": "#555a68",
+        "color9": "#4D63B1",
+        "color10": "#5C75C9",
+        "color11": "#8578C9",
+        "color12": "#6D8FDB",
+        "color13": "#48ACD4",
+        "color14": "#98A5EC",
+        "color15": "#c0c1c2"
+    }
+}

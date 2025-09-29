@@ -1,0 +1,21 @@
+set $wallpaper /home/argee/Pictures/Wallpapers/127440533_p0_master1200.jpg
+
+set $background #0c0c1b
+set $foreground #c2c2c6
+
+set $color0 #0c0c1b
+set $color1 #AE5672
+set $color2 #CA596B
+set $color3 #E16370
+set $color4 #FA857A
+set $color5 #BA6D85
+set $color6 #E77084
+set $color7 #c2c2c6
+set $color8 #5b5b6f
+set $color9 #AE5672
+set $color10 #CA596B
+set $color11 #E16370
+set $color12 #FA857A
+set $color13 #BA6D85
+set $color14 #E77084
+set $color15 #c2c2c6

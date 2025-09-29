@@ -1,0 +1,28 @@
+
+[global]
+    frame_width = 0
+    font = Times New Roman 12
+    alignment = left
+    word_wrap = yes
+
+    # Format for how notifications will be displayed
+    format = "<b>%s</b>\n<b>%b</b>"
+
+    
+    # Allow some HTML tags like <i> and <u> in notifications
+    markup = full
+
+[urgency_low]
+    background = "#AE5672"
+    foreground = "#0c0c1b"
+    timeout = 5
+
+[urgency_normal]
+    background = "#FA857A"
+    foreground = "#0c0c1b"
+    timeout = 5
+
+[urgency_critical]
+    background = "#CA596B"
+    foreground = "#0c0c1b"
+    timeout = 5

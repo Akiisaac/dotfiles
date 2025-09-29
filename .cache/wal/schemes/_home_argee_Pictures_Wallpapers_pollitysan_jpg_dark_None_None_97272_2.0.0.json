@@ -1,0 +1,28 @@
+{
+    "checksum": "eef7c3d0d927cefd5ad3d55e632cab33",
+    "wallpaper": "/home/argee/Pictures/Wallpapers/pollitysan.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#221711",
+        "foreground": "#c7c5c3",
+        "cursor": "#c7c5c3"
+    },
+    "colors": {
+        "color0": "#221711",
+        "color1": "#DC9C62",
+        "color2": "#A99B8F",
+        "color3": "#B4A497",
+        "color4": "#BAADA4",
+        "color5": "#D0AE90",
+        "color6": "#E7BA90",
+        "color7": "#c7c5c3",
+        "color8": "#74665e",
+        "color9": "#DC9C62",
+        "color10": "#A99B8F",
+        "color11": "#B4A497",
+        "color12": "#BAADA4",
+        "color13": "#D0AE90",
+        "color14": "#E7BA90",
+        "color15": "#c7c5c3"
+    }
+}

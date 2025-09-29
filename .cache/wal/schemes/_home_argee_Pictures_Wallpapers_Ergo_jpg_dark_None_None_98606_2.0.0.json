@@ -1,0 +1,28 @@
+{
+    "checksum": "8ef134aac576a0ea5430159df194357a",
+    "wallpaper": "/home/argee/Pictures/Wallpapers/Ergo.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090404",
+        "foreground": "#c1c0c0",
+        "cursor": "#c1c0c0"
+    },
+    "colors": {
+        "color0": "#090404",
+        "color1": "#3938A4",
+        "color2": "#C863AF",
+        "color3": "#609CDF",
+        "color4": "#C3A7A9",
+        "color5": "#EBD8AB",
+        "color6": "#E2D4D0",
+        "color7": "#c1c0c0",
+        "color8": "#665353",
+        "color9": "#3938A4",
+        "color10": "#C863AF",
+        "color11": "#609CDF",
+        "color12": "#C3A7A9",
+        "color13": "#EBD8AB",
+        "color14": "#E2D4D0",
+        "color15": "#c1c0c0"
+    }
+}

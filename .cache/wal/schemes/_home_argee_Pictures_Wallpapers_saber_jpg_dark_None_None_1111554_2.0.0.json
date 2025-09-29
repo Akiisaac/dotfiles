@@ -1,0 +1,28 @@
+{
+    "checksum": "2df4bd6f7c914151a3cc517d8d738227",
+    "wallpaper": "/home/argee/Pictures/Wallpapers/saber.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#111018",
+        "foreground": "#c3c3c5",
+        "cursor": "#c3c3c5"
+    },
+    "colors": {
+        "color0": "#111018",
+        "color1": "#E12715",
+        "color2": "#3E5680",
+        "color3": "#5E6988",
+        "color4": "#536A94",
+        "color5": "#887B95",
+        "color6": "#B1AABB",
+        "color7": "#c3c3c5",
+        "color8": "#5f5b6f",
+        "color9": "#E12715",
+        "color10": "#3E5680",
+        "color11": "#5E6988",
+        "color12": "#536A94",
+        "color13": "#887B95",
+        "color14": "#B1AABB",
+        "color15": "#c3c3c5"
+    }
+}

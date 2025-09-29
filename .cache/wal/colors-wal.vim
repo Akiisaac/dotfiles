@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/argee/Pictures/Wallpapers/127440533_p0_master1200.jpg"
+let background = "#0c0c1b"
+let foreground = "#c2c2c6"
+let cursor     = "#c2c2c6"
+
+" Colors
+let color0  = "#0c0c1b"
+let color1  = "#AE5672"
+let color2  = "#CA596B"
+let color3  = "#E16370"
+let color4  = "#FA857A"
+let color5  = "#BA6D85"
+let color6  = "#E77084"
+let color7  = "#c2c2c6"
+let color8  = "#5b5b6f"
+let color9  = "#AE5672"
+let color10 = "#CA596B"
+let color11 = "#E16370"
+let color12 = "#FA857A"
+let color13 = "#BA6D85"
+let color14 = "#E77084"
+let color15 = "#c2c2c6"

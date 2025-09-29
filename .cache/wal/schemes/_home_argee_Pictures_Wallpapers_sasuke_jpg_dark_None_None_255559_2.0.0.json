@@ -1,0 +1,28 @@
+{
+    "checksum": "98a6d0cfaff596cf7dbe714ea686be8d",
+    "wallpaper": "/home/argee/Pictures/Wallpapers/sasuke.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#110915",
+        "foreground": "#c3c1c4",
+        "cursor": "#c3c1c4"
+    },
+    "colors": {
+        "color0": "#110915",
+        "color1": "#4A3B45",
+        "color2": "#56454C",
+        "color3": "#685156",
+        "color4": "#6F5A63",
+        "color5": "#7A656C",
+        "color6": "#856E76",
+        "color7": "#c3c1c4",
+        "color8": "#66586c",
+        "color9": "#4A3B45",
+        "color10": "#56454C",
+        "color11": "#685156",
+        "color12": "#6F5A63",
+        "color13": "#7A656C",
+        "color14": "#856E76",
+        "color15": "#c3c1c4"
+    }
+}

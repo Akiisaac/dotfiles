@@ -1,0 +1,28 @@
+{
+    "checksum": "df2ff19c515053adc4635f7664f886dd",
+    "wallpaper": "/home/argee/Pictures/Wallpapers/wallhaven-8326zj.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1b0c14",
+        "foreground": "#c6c2c4",
+        "cursor": "#c6c2c4"
+    },
+    "colors": {
+        "color0": "#1b0c14",
+        "color1": "#6C5749",
+        "color2": "#676865",
+        "color3": "#8C5C39",
+        "color4": "#937156",
+        "color5": "#6D847E",
+        "color6": "#A88968",
+        "color7": "#c6c2c4",
+        "color8": "#6f5b66",
+        "color9": "#6C5749",
+        "color10": "#676865",
+        "color11": "#8C5C39",
+        "color12": "#937156",
+        "color13": "#6D847E",
+        "color14": "#A88968",
+        "color15": "#c6c2c4"
+    }
+}

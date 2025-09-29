@@ -1,0 +1,28 @@
+{
+    "checksum": "df759a35785b4c8dd77ebe7b060f8747",
+    "wallpaper": "/home/argee/Pictures/Wallpapers/wallhaven-8okeqo.png",
+    "alpha": "100",
+    "special": {
+        "background": "#111415",
+        "foreground": "#c3c4c4",
+        "cursor": "#c3c4c4"
+    },
+    "colors": {
+        "color0": "#111415",
+        "color1": "#807E71",
+        "color2": "#908977",
+        "color3": "#667985",
+        "color4": "#748B94",
+        "color5": "#7293A2",
+        "color6": "#99A4A1",
+        "color7": "#c3c4c4",
+        "color8": "#5a6f6f",
+        "color9": "#807E71",
+        "color10": "#908977",
+        "color11": "#667985",
+        "color12": "#748B94",
+        "color13": "#7293A2",
+        "color14": "#99A4A1",
+        "color15": "#c3c4c4"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "0a1637dc88eabfd0de180fb1b4644af2",
+    "wallpaper": "/home/argee/Pictures/Wallpapers/painted knight @PluviumG.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e1520",
+        "foreground": "#c2c4c7",
+        "cursor": "#c2c4c7"
+    },
+    "colors": {
+        "color0": "#0e1520",
+        "color1": "#B28D6B",
+        "color2": "#CF9771",
+        "color3": "#687B86",
+        "color4": "#768B96",
+        "color5": "#A3A399",
+        "color6": "#B5B4A9",
+        "color7": "#c2c4c7",
+        "color8": "#5d6472",
+        "color9": "#B28D6B",
+        "color10": "#CF9771",
+        "color11": "#687B86",
+        "color12": "#768B96",
+        "color13": "#A3A399",
+        "color14": "#B5B4A9",
+        "color15": "#c2c4c7"
+    }
+}
